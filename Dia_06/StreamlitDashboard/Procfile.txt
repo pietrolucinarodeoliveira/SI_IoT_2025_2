@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run StreamlitDashboard.py
+web: sh setup.sh && streamlit run MeuApp.py
